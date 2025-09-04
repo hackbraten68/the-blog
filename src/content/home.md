@@ -1,8 +1,8 @@
 ---
 avatarImage:
-  src: './avatar.jpg'
+  src: './sam.jpg'
   alt: 'My avatar'
-githubCalendar: 'stelcodes'
+githubCalendar: 'hackbraten68'
 ---
 
-Welcome to the example site. This site is meant to show off my custom Astro theme/template **MultiTerm** which creates a coder-ready blog complete with an interactive theme changer, RSS, sitemap, tagging, and markdown extensions.
+Where self-hosting meets chaos, code meets memes, and Raspberry Pis rule. Join me as I break things (intentionally), turn my home into a server farm, and Dockerize everything – even my bad decisions.
