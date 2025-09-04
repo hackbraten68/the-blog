@@ -1,6 +1,9 @@
 ---
-layout: '~/layouts/MarkdownLayout.astro'
-title: About Me
+title: 'Something about me'
+published: 2025-09-04
+draft: false
+description: 'Learn something about this weirdo who runs this blog.'
+tags: ['dev-life']
 ---
 
 This blog is my little corner of the internet where I post dev tips, self-hosting guides, and general tech ramblings — basically, if it runs on Linux and can live in a Docker container, I’ve probably tried it at 2am.
@@ -9,10 +12,11 @@ Expect tutorials, rants, config files that may or may not work on the first try,
 
 ## This is fine 🔥
 
-![This is fine](../assets/this-is-fine.png)
+![This is fine](../../assets/this-is-fine.png)
 
 – Me, deploying to production for fun
-If you're into building things yourself, tinkering with servers, or just want to vibe with someone who also yells at YAML files, you’re in the right place.
+
+> If you're into building things yourself, tinkering with servers, or just want to vibe with someone who also yells at YAML files, you’re in the right place.
 
 
 ## Fun Facts:
