@@ -2,7 +2,7 @@ import type { SiteConfig } from '~/types'
 
 const config: SiteConfig = {
   // Absolute URL to the root of your published site, used for generating links and sitemaps.
-  site: 'https://multiterm.stelclementine.com',
+  site: 'https://thats.normalguy.de',
   // The name of your site, used in the title and for SEO.
   title: 'MosDev__ :: Developer Blog',
   // The description of your site, used for SEO and RSS feed.
@@ -166,11 +166,11 @@ const config: SiteConfig = {
   // IMPORTANT: Update giscus.json in the root of the project with your own website URL
   // If you don't want to use Giscus, set this to undefined.
   giscus: {
-    repo: 'stelcodes/multiterm-astro',
-    repoId: 'R_kgDOPNnBig',
-    category: 'Giscus',
-    categoryId: 'DIC_kwDOPNnBis4CteOc',
-    reactionsEnabled: true, // Enable reactions on post itself
+    repo: 'hackbraten68/the-blog',
+    repoId: 'R_kgDOPkZSTA',
+    category: 'General',
+    categoryId: 'DIC_kwDOPkZSTM4CvxDD',
+    reactionsEnabled: true,
   },
   // These are characters available for the character chat feature.
   // To add your own character, add an image file to the top-level `/public` directory
