@@ -28,7 +28,7 @@ With Docker **29.0.0**, the Docker Engine introduced a breaking change:
 This means Portainer tries to talk to Docker using an older API version that Docker no longer accepts.
 The result: Portainer can’t connect to the Docker socket, even though everything looks fine.
 
-This issue is actively discussed in the Portainer GitHub community and affects many Raspberry Pi and Debian users.
+This issue is actively discussed in the [Portainer GitHub community](https://github.com/orgs/portainer/discussions/12926) and affects many Raspberry Pi and Debian users.
 
 ---
 
