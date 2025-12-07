@@ -6,8 +6,6 @@ description: 'A recent Raspberry Pi update installed Docker 29.0.0, which raised
 tags: ['docker', 'portainer', 'api-version', 'raspi', ]
 ---
 
-# Fixing Portainer After a Raspberry Pi Update: Docker 29 vs. Portainer API Compatibility
-
 After updating my Raspberry Pi (DietPi) system, everything seemed fine—except Portainer.
 All my containers were running, but Portainer showed this error:
 
